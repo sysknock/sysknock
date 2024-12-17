@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shravya!<br>🌟 Experienced in test automation with a focus on cloud-based systems.<br>☁️ Passionate about learning and working with cloud and cloud-native technologies.<br>💻 Skilled in Python, Restful API, AWS Cloud, and Containerization.<br>✨ Interested in building expertise in cloud operations and workflows.<br>📚 Always eager to expand my knowledge and contribute to innovative projects.
+👋 Hi, I'm Shravya!<br>🌟 Experienced in test automation with a focus on cloud-based systems.<br>☁️ Passionate about learning and working with cloud,Virtualization and cloud-native technologies.<br>💻 Skilled in Python, Restful API, AWS Cloud, and Containerization.<br>✨ Interested in building expertise in cloud operations and workflows.<br>📚 Always eager to expand my knowledge and contribute to innovative projects.
 
 
 ## 🌐 Socials:
